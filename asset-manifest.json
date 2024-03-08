@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Surbhi/static/css/main.463cf795.css",
+    "main.js": "/Surbhi/static/js/main.879d2c50.js",
+    "static/media/Surbhi-logo.png": "/Surbhi/static/media/Surbhi-logo.545aff1320276c53451d.png",
+    "static/media/Surbhi.png": "/Surbhi/static/media/Surbhi.0d57a3035529d5f47957.png",
+    "static/media/woman1.png": "/Surbhi/static/media/woman1.bf207e1501b3e3a89339.png",
+    "static/media/woman2.png": "/Surbhi/static/media/woman2.1badb7321889e9b9ceaf.png",
+    "static/media/man.png": "/Surbhi/static/media/man.58008a565ab6f0db4d93.png",
+    "static/media/Example-Cv.pdf": "/Surbhi/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/Surbhi/index.html",
+    "main.463cf795.css.map": "/Surbhi/static/css/main.463cf795.css.map",
+    "main.879d2c50.js.map": "/Surbhi/static/js/main.879d2c50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.463cf795.css",
+    "static/js/main.879d2c50.js"
+  ]
+}
